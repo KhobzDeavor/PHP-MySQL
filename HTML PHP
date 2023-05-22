@@ -35,6 +35,8 @@
     <div class="container">
         <!-- Le reste de votre code HTML ici -->
 
+        INSERT INTO `pain baguette` (`id`, `image`, `nom`, `prix`, `description`) VALUES (NULL, 'https://www.ambitiouskitchen.com/wp-content/uploads/2017/06/blackbeanburgers-3.jpg', 'Hamburger Vegan', '6', 'Voici notre Hamburger vegan !');
+
     </div>
 
                 <div class="right">
@@ -51,6 +53,8 @@
                 <?php include 'Connexion.php'; ?>
     <div class="container">
         <!-- Le reste de votre code HTML ici -->
+
+        INSERT INTO `pain baguette` (`id`, `image`, `nom`, `prix`, `description`) VALUES (NULL, 'https://th.bing.com/th/id/R.44d10945c0a134e5d18b403a2d4eca7c?rik=AO60awUclc7mXw&riu=http%3a%2f%2fassets.epicurious.com%2fphotos%2f57c5c6d9cf9e9ad43de2d96e%2fmaster%2fpass%2fthe-ultimate-hamburger.jpg&ehk=ovkmWw5FEuB86jZ%2fN9Gt9ATrG2oovgVkW0CHny4no8E%3d&risl=&pid=ImgRaw&r=0', 'Hamburger steak haché', '7', 'Voici notre Hamburger au steak haché !');
 
     </div>
 
